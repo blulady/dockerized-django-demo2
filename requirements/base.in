@@ -15,7 +15,7 @@ django==3.2.12  # 2021 Dec 7 https://docs.djangoproject.com/en/3.2/releases/3.2.
 
 # Database
 # ----------------------------------------------------------------
-psycopg2-binary==2.9.3 # 2021 Nov 12 https://github.com/psycopg/psycopg2/releases/tag/2_9_3
+psycopg2-binary==2.9.6 # 2021 Nov 12 https://github.com/psycopg/psycopg2/releases/tag/2_9_3
 
 # Settings
 # ----------------------------------------------------------------
